@@ -1,2 +1,2 @@
 # Path-Search-Robot
-A robot which can search path automatically by DQN
+Training a robot which can find the path to the target by deep Q learning
