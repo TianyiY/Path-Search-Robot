@@ -1,5 +1,5 @@
 # Path-Search-Robot
-Training a robot which can find its path to the target by deep Q learning using self built simulator
+Training a virtual robot which can find its path to the target by deep Q learning using self built simulator
 
 1. Environment
 - Built a virtual robot, a virtual target and virtual barriers. 
