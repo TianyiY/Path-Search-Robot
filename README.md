@@ -12,3 +12,9 @@ Training a virtual robot which can find its path to the target by deep Q learnin
 2. Brain
 - Deep Q Learning network which trains the robot to achieve the target with minimal cost: 
 e.g Deep Deterministic Policy Gradient (DDPG) involving Actor Critic system (good for continuous system)
+
+3. Learning
+- Iteratively learning the rules
+
+
+Model is hard to converge, further optimization should be implemented. 
